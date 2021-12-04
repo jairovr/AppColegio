@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Colegio la alegria de educar</string>
+    <string-array name="spOpcionesEstu">
+        <item>Guardar</item>
+        <item>Buscar</item>
+        <item>Actualizar</item>
+    </string-array>
+
+</resources>
