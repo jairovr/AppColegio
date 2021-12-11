@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "907007451885",
+    "project_id": "unab-b2789",
+    "storage_bucket": "unab-b2789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907007451885:android:004d8476c35c3530fb62e4",
+        "android_client_info": {
+          "package_name": "com.astrosag.appparqueadero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907007451885-oi96konqnbtvgemdpcb6j3tsnbc7iqdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNaVvDekRfabyb_JmD9EIMpIWTlK8a50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907007451885-oi96konqnbtvgemdpcb6j3tsnbc7iqdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907007451885:android:580e2bd26974c6fefb62e4",
+        "android_client_info": {
+          "package_name": "com.example.appcolegio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907007451885-oi96konqnbtvgemdpcb6j3tsnbc7iqdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNaVvDekRfabyb_JmD9EIMpIWTlK8a50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907007451885-oi96konqnbtvgemdpcb6j3tsnbc7iqdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
