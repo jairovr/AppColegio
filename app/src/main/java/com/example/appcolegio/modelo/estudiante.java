@@ -7,11 +7,11 @@ public class estudiante {
     private String dirEst;
     private String docEst;
     private String nomEst;
-    private Number telEst;
+    private String telEst;
 
     //Constructor vacio
 
-    public estudiante(){
+    public estudiante() {
 
     }
 
@@ -56,19 +56,16 @@ public class estudiante {
         this.nomEst = nomEst;
     }
 
-    public Number getTelEst() {
+    public String getTelEst() {
         return telEst;
     }
 
-    public void setTelEst(Number telEst) {
+    public void setTelEst(String telEst) {
         this.telEst = telEst;
     }
 
     @Override
     public String toString() {
-        return "estudiante{" +
-                "apeEst='" + apeEst + '\'' +
-                ", nomEst='" + nomEst + '\'' +
-                '}';
+        return nomEst + "  " + apeEst;
     }
 }
